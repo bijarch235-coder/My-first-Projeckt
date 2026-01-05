@@ -1,2 +1,2 @@
-# My-first-Projekt
+# My-first-Project
 My first GitHub repository for learning Git
